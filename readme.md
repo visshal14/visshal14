@@ -34,4 +34,4 @@ Fullstack developer from <img src="https://user-images.githubusercontent.com/556
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visshal14&theme=dark)](https://github.com/visshal14/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Discord+Lets+talk!!!&center=true&color="FFC0CB")](https://github.com/visshal14)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Discord+Lets+talk!!!&center=true&color="FFC0CB")](https://github.com/visshal14) -->
