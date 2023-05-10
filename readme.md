@@ -28,7 +28,7 @@ Fullstack developer from <img src="https://user-images.githubusercontent.com/556
 <!-- ![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=visshal14&theme=react-dark) -->
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=visshal14&theme=dark&hide_border=false" width = 500>
-<img src = "https://github-readme-stats.vercel.app/api?username=visshal14&show_icons=true&theme=dark" width = 500>
+<!-- <img src = "https://github-readme-stats.vercel.app/api?username=visshal14&show_icons=true&theme=dark" width = 500> -->
 
 
 <!-- 
